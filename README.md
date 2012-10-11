@@ -1,4 +1,5 @@
 House-Auction
 =============
+House Auction Version 0.3 Made by MoonManGames.
 
-A Plugin To Auction Off Houses Online.
+Thankyou for downloading and/or viewing this plugin.
